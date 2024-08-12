@@ -1,0 +1,52 @@
+[
+    {
+        "heading": "",
+        "description": "Abacus cloud solutions is dedicated to connecting with our customers and community and on our media page, you can get all the latest updates, announcements and other changes in regards to cloud based services."
+    },
+    {
+        "heading": "Media Coverage",
+        "description": "If you want to stay updated about our innovations, partnerships and industry insights which would help shape the future of cloud computing, then here you can get to know about all the latest news articles, media coverage and press releases which show coverage of The Abacus."
+    },
+    {
+        "heading": "Press Releases",
+        "description": "This is the section which provides in-depth knowledge about all the latest developments taking place at Abacus.So, here you can stay updated about the announcements of the company along with all the press releases."
+    },
+    {
+        "heading": "Blog",
+        "description": "Our blog section has entirely been dedicated to help you delve into the world of cloud computing, as this contains everything you need to know about cloud computing and its types. This will help you choose the best service for your business to grow. The information given related to every cloud services, technology etcetera is not only going to be useful for beginners,as it will also target the experts and broaden their horizon of knowledge, as they can get to know everything they need to."
+    },
+    {
+        "heading": "Multimedia",
+        "description": "In our multimedia section, you can watch video tutorials, webinars related to demos along with podcasts. We’ve posted other types of engaging content like education which is going to assist you in having a better understanding of our services and all the products. There is a behind the scenes section which you can check via photo gallery."
+    },
+    {
+        "heading": "Social Media",
+        "description": "If you want to stay updated with the latest news and all the announcements which we make, then do not forget to join us on social media. You can follow us on various platforms like Linkedin, Twitter, Facebook, Instagram to connect to our community and participate in discussions. We encourage you to share your feedback with us for further improvement of our services. You can also check webinars, events and get all the real time updates or changes happening at Abacus."
+    },
+    {
+        "heading": "Packages",
+        "description": "There are multiple packages which we offer at Abacus and all are made keeping the needs of customers in mind. These are suitable for both small and large businesses, as various packages fit requirements of various businesses. Below given is the description of packages so that you can select what works best for you.",
+        "types": [
+            {
+                "title": "Starter Package",
+                "description": "This is the package which would suit small businesses and for those who just want to start cloud computing services."
+            },
+            {
+                "title": "Business Package",
+                "description": "The companies or enterprises which want advanced cloud computing technology can go for these packages."
+            },
+            {
+                "title": "Enterprise Package",
+                "description": "These are packages made for large enterprises and the resources can be scaled up and down according to the needs of the company."
+            },
+            {
+                "title": "Custom packages",
+                "description": "We just do not offer the packages set by us but organisations can also get the packages customised for their special needs."
+            }
+        ]
+    },
+    {
+        "heading": "Get in Touch",
+        "description": "So, if you are ready to take your business to new heights with us, contact our team of experts and speak to a member to get to know about our solutions. You can even request a demo to clear all your doubts and choose the services which fit best for your business. We are available 24/7 to assist you grow your business."
+    }
+]

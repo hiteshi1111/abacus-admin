@@ -1,0 +1,381 @@
+[
+    {
+        "title": "Private Cloud",
+        "serviceId": "private-cloud",
+        "handle": "/service/private-cloud",
+        "description": "Highly adaptable and infinitely scalable private cloud solution tailored to your requirements.",
+        "metaTitle": "Secure Private Cloud Services | The Abacus", 
+        "metaDescription": "Explore our private cloud solutions for enhanced security and performance. Trust The Abacus for reliable and scalable private cloud services tailored to your business needs.",
+        "keyPoints": [
+            "Exceptionally scalable and flexible private cloud service is offered  to meet your needs.",
+            "Get fully managed on-premises infrastructure and enhanced flexibility without worrying about long term commitment Abacus private cloud service providers.",
+            "You can improve your cloud transformations with Abacus private cloud network especially for workloads restricted by on-premises requirements."
+        ],
+        "featuresList": [
+            {
+                "heading": "Control",
+                "subHeading": "You can keep track of system usage with private cloud technologies which would assist you to optimise resource utilisation and enhance cost effectiveness.",
+                "icon": "/images/services/private-cloud/1.png"
+            },
+            {
+                "heading": "Multi Geography Zones",
+                "subHeading": "<b>Abacus’ Data Centres</b> are established at multiple geographical locations in order to reduce service disruption due to regional issues. Moreover, proximity based access enhances user experience along with reducing latency and increasing responsiveness.",
+                "icon": "/images/services/private-cloud/2.png"
+            },
+            {
+                "heading": "Reliable",
+                "subHeading": "<b>Abacus private cloud computing providers</b> follow well-built SLA parameters, supported by back-up as well as disaster recovery options.",
+                "icon": "/images/services/private-cloud/3.png"
+            },
+            {
+                "heading": "On Demand Scalability",
+                "subHeading": "<b>Our Private cloud service</b> allows organisations to dynamically allocate and deallocate computing resources according to varying workloads. This even assists in cost reduction as you just need to pay for what you use.",
+                "icon": "/images/services/private-cloud/4.png"
+            },
+            {
+                "heading": "Secure & Compliant",
+                "subHeading": "We comply with organisational security and complaint by data governance policies and standards like PCI. Besides this, your sensitive information is being protected by us against cyber threats and any kind of illegal or unauthorised access.",
+                "icon": "/images/services/private-cloud/5.png"
+            },
+            {
+                "heading": "Customised Solutions",
+                "subHeading": "Abacus private cloud computing providers’ team of experts assists you to prepare detailed project plans which are specific to each customers’ needs.",
+                "icon": "/images/services/private-cloud/6.png"
+            },
+            {
+                "heading": "Cost-efficiency",
+                "subHeading": "<b>Our Private cloud solutions</b> are provided at reasonable prices. The major benefit comes from the pay-as-you-go model which allows you to pay only for the resources you use. So, escape from the world of high IT costs and expenditures.",
+                "icon": "/images/services/interconnection/3.png"
+            },
+            {
+                "heading": "24/7 expert support",
+                "subHeading": "As customer satisfaction is our top-most priority, our team of professionals and experts is always available round the clock to help you in times of need without any delays. Proactive monitoring and instant response to enquiries is one of our services models.",
+                "icon": "/images/services/bare-metal-servers/5.png"
+            }
+        ],
+        "content": "<div> <h2>What is Private Cloud?</h2> <p>A private Cloud is a type of Cloud Computing Service where all the hardware and software resources are dedicated to a single customer. Although it is generally hosted on-premises data centres of a customer, it can be hosted on infrastructure of an independent Cloud provider and on rented infrastructure placed in an offsite data centre.</p> <p>Companies are often seen choosing private cloud service providers over the public cloud ones as it is a convenient and easier method to meet their supervisory compliance requirements. Another reason for giving preference to private cloud is the workload of confidential documents like property, medical records, financial records or any kind of sensitive data which is must to protect.</p> </div><div> <h2>What are the types of <b>Private Cloud services?</b></h2> <p>There are basically 3 types of <b>Private Cloud Services</b>:</p> <ul> <li><h3>On-premises Private Cloud:</h3></li> <p>An on-premises <b>private cloud server</b> is the one that can be deployed in your own internal data centre and which you need not to share with anyone else, as it is just for your own company to use. It gives you more control on how to use it like keeping your data more secure and making sure it follows all the rules and regulations your company needs to abide by. The only drawback is high initial investment.</p> <li><h3>Managed Private Cloud:</h3></li><p>A Managed <b>Private Cloud network</b> is like having your own personal computer for your company which is managed by a third party unlike on-premises private cloud, where you are responsible for everything. In this private Cloud server,  the third party ensures maintenance, upgrades, every kind of support for your private cloud resources. Although these prove to be expensive, they offer more convenience than on-premises solutions.</p><li><h3>Virtual private cloud:</h3></li><p>A <b>virtual private cloud company</b> provides a personal space within a public cloud infrastructure. The term virtual is used because it exists online and private means it is just for you means having your own virtual private space. It is a more secure and isolated environment which your activities separate from others on the internet.</p></ul></div><div><h2>How does <b>private cloud technologies</b> work?</h2><p>The architecture of private cloud servers is the same as of public cloud, so it requires implementation of similar technologies. Below given is the explanation of how it works:</p><ul> <li><h3>Virtualization:</h3></li> <p>In virtualization, the user can virtualize hardware resources like servers and storage using software and can use them in the same way as physical machines with the help of private cloud computing providers.</p><li><h3>Infrastructure Setup:</h3></li><p>The data centre is set up by the private cloud service providers with servers, networking equipment and storage. In the hosted private cloud, infrastructure is maintained by a third party on the behalf of the organisation.</p><li><h3>Resource Allocation:</h3></li><p>In Private cloud technologies, the computing resources like virtual machines, storage and processing power are managed and allocated by the IT administrators of organisations that too according to the needs of distinct departments or applications.</p><li><h3>Automation Technologies:</h3></li><p>The automation of mundane tasks like integration, which are error-prone when done manually, is essential for efficient cloud infrastructure management. Organisations implementing a private cloud environment must offer such automation capabilities with private cloud networks.</p></ul></div>"
+    },
+    {
+        "title": "Public Cloud",
+        "serviceId": "public-cloud",
+        "handle": "/service/public-cloud",
+        "description": "Benefit from our uninterrupted technical support and stay focused on your goals, hassle-free.",
+        "metaTitle": "Public Cloud Solutions Provider - The Abacus", 
+        "metaDescription": "Unlock the power of the cloud with The Abacus, Reliable and scalable public cloud services tailored to boost your business efficiency and agility.",
+        "keyPoints": [
+            "Get assistance to eliminate barriers to innovation, optimise cloud spend and accelerate revenue with public cloud computing platforms.",
+            "Access your data and applications conveniently through Abacus’ Public Cloud Computing services.",
+            "Flexible deployment and management plan to assist your business successfully navigate cloud journey."
+        ],
+        "featuresList": [
+            {
+                "heading": "Optimize Your IT Budget",
+                "subHeading": "By adjusting resource sizes and utilising reserved instances for stability, you can enhance your IT budget with public cloud technologies. Migrate your workloads seamlessly to the cloud in order to maximise your productivity.",
+                "icon": "/images/services/public-cloud/1.png"
+            },
+            {
+                "heading": "Scalability",
+                "subHeading": "We aid you to add new resources and expand infrastructure without displacing existing infrastructure at our public cloud computing platforms. Expand effortlessly with our flexible resources to meet your changing needs.",
+                "icon": "/images/services/public-cloud/2.png"
+            },
+            {
+                "heading": "Usage-Based billing",
+                "subHeading": "Users are being charged according to their actual usage of computing resources, which provides flexibility and cost efficiency. Say goodbye to high investments on purchasing services.",
+                "icon": "/images/services/public-cloud/3.png"
+            },
+            {
+                "heading": "Multi-Geographic Zones",
+                "subHeading": "Abacus’ Public Cloud Solutions ensure redundancy and improved performance with distributed workloads and data across different regions. Explore the power of global connectivity which helps enhance your business productivity.",
+                "icon": "/images/services/public-cloud/4.png"
+            },
+            {
+                "heading": "Allocated Resources",
+                "subHeading": "We provide reserved and designated virtual machines, storage and network bandwidth for a specific use within the cloud environment. No worries for changing demands of your business, you can get resources allocated during peak periods and scale down when not required.",
+                "icon": "/images/services/public-cloud/5.png"
+            },
+            {
+                "heading": "Assured Performance",
+                "subHeading": "Our Public Cloud Computing Services ensure levels of processing power, memory and network bandwidth so that users can rely upon a specified performance baseline.",
+                "icon": "/images/services/rack-space/1.png"
+            }
+        ],
+        "content": "<div><h2>What is Public Cloud?</h2><p>A Public Cloud is a type of Cloud Computing in which resources are provided by a third-party owner over the internet and are futhere shared by those organisations and customers who are interested to use them. Although some of the resources are made available totally free, for others users just pay for those which they use which is called a pay-as-you-go model.</p><p><b>Public Cloud providers</b> provide resources to data centres which are distributed around the globe and which organisations and customers can get from the internet. These are often maintained by <b>public cloud computing service providers</b> instead of an in-house team. It is just like renting an apartment where a tenant pays for a single unit, sharing overall space with tenants while having security of his belongings and having the building manager taking care of all the maintenance.</p></div><div><h2>What are the types of <b>Public Cloud Computing services</b>?</h2><p>Public Cloud networking provides a range of computing resources which are provided by a third-party over the internet. These are some primary types of <b>Public Cloud as a service</b>:</p><ul><li><h3>Infrastructure as a Service (IaaS):</h3></li><p>Here, virtual machines, storage and networking infrastructure can be rented by a user over the internet. The user pays via pay-as-you-go model in public cloud networking. This service is attractive because getting computing resources for applications or in order to store data according to the orthodox method is time consuming as well as costly.</p><li><h3>Software as a Service (SaaS):</h3></li><p>It gives users the freedom to use cloud-based applications over the internet. In short, software applications are provided by SaaS on a subscription basis over the internet. In this, an app is rented by an organisation which further is used by the users to connect over the internet with a web browser.</p><li><h3>Platform as a Service (PaaS):</h3></li><p>By PaaS, a scalable and flexible cloud platform is provided to run, deploy and manage applications. In this, everything needed by developers especially for application development is provided without any need of development tools and updating operating systems.</p></ul></div><div><h2>How does <b>Public cloud technologies</b> work?</h2><p><b>Public cloud service providers</b> offer computing services over the internet which are used by multiple users and organisations. Below mentioned is the working of <b>public cloud computing platforms</b>:</p><ul><li><h3>Virtualization:</h3></li><p>Virtualization technologies are used by <b>public cloud server providers</b> to create virtual instances of storage, servers and other types of resources. Here, the same physical infrastructure is used by multiple users without compromising security and maintaining isolation.</p><li><h3>Resource pooling:</h3></li><p>In <b>Public Cloud networking</b>, resources like storage and processing power are offered by <b>public cloud computing providers</b> to serve multiple users. These resources are allocated and deallocated according to the demand of the user. Even usage of services could be monitored and recorded, which plays an important role for the purpose of billing as a pay-as-you-go model is followed.</p><li><h3>API Integration:</h3></li><p> <b>Public cloud technologies</b> provide APIs which are used to integrate the capabilities of cloud into the applications by the developers. APIs are more of translators, which allow applications to understand and share information easily. With them, smooth functioning of cloud services like data sharing, automation and collaboration is ensured.</p><li><h3>Service agreements:</h3></li><p>Service Level Agreements (SLAs), which provide a certain level of service uptime and performance are offered by <b>public cloud in cloud computing</b>. These agreements are  kind of rules which you have to agree to while using the cloud service.</p></ul></div>"
+    },
+    {
+        "title": "Rackspace",
+        "serviceId": "rackspace",
+        "handle": "/service/rackspace",
+        "description": "Beyond cloud Basics: Explore Rackspace Solutions with Abacus Cloud Service Providers.",
+        "metaTitle": "Rack Space Solutions for Efficiency | The Abacus", 
+        "metaDescription": "Optimize your infrastructure with The Abacus Rack Space solutions. Enhance efficiency and reliability with our tailored rack space services for your business needs.",
+        "keyPoints": [
+            "Get all your needs addressed ranging from small colocation requirements to enterprise level demands.",
+            "Ensure high availability and reduce downtime with robust infrastructure and redundant systems.",
+            "Advanced security measures like firewall, intrusion prevention system and data encryption system."
+        ],
+        "featuresList": [
+            {
+                "heading": "Unrivalled Performance",
+                "subHeading": "We, as rackspace services providers, believe in offering unparalleled performance with robust infra, high uptime and advanced security measures. Our high-performance cloud based solutions are designed in a way to offer speed and agility, so that you always stay ahead of the curve whether you are running applications or hosting websites.",
+                "icon": "/images/services/rack-space/1.png"
+            },
+            {
+                "heading": "24x7 NOC And Experts Support",
+                "subHeading": "Our expert team at Abacus rack security services offers round the clock service, so that clients can navigate any challenges safely. Not only this, in order to help you gain maximum from our cloud based investment, personalised guidance is provided by us to assist you in architecting and managing your cloud environment.",
+                "icon": "/images/services/rack-space/2.png"
+            },
+            {
+                "heading": "Innovative Service Level Agreements Around Infrastructure Support",
+                "subHeading": "We, at Abacus rack security services always feel content in setting industry standards with Service Level Agreements (SLA) focused on infrastructure support, as this helps to stay relaxed thinking that your infrastructure is being supported by our team of experts and professionals offering you enhanced performance and flexibility.",
+                "icon": "/images/services/rack-space/3.png"
+            },
+            {
+                "heading": "Tools To Remotely Manage Your Environment",
+                "subHeading": "Get Cutting Edge tools which allow you to control different aspects of your hosted environment with such an ease. Manage your infrastructure and deploy applications effortlessly with our user-friendly interfaces and functionalities.",
+                "icon": "/images/services/rack-space/4.png"
+            },
+            {
+                "heading": "Multilayer Security Policies",
+                "subHeading": "As a trusted rackspace services provider, we offer 24*7 video survelliance, key card access, customised sol for a secure hosting environment. Only authorised people can access the data, which means we ensure you that your data is protected by advanced security measures.",
+                "icon": "/images/services/rack-space/5.png"
+            },
+            {
+                "heading": "Backup/Recovery And L2; L3 Service options available",
+                "subHeading": "Our team of experts at Abacus Rack security services provides rapid response, scalability, reliability and adaptable infrastructure services. In case of any disaster, instant recovery is provided and data is being safeguarded.",
+                "icon": "/images/services/rack-space/6.png"
+            }
+        ],
+        "content": "<div><h2>What is Rackspace?</h2><p>Rack Storage is a kind of service in cloud computing where a user can rent a small space on the cloud instead of buying a server. It is just like renting a small space on a shared network.<br />This service helps improve the cost optimization and also lessens the unnecessary expenses. Among other many benefits of server rack solutions, performance is strengthened , more reliability is offered, risk reduction and enhanced security features are provided.</p><p><b>Public Cloud providers</b> provide resources to data centres which are distributed around the globe and which organisations and customers can get from the internet. These are often maintained by<b>public cloud computing service providers</b> instead of an in-house team. It is just like renting an apartment where a tenant pays for a single unit, sharing overall space with tenants while having security of his belongings and having the building manager taking care of all the maintenance.</p></div><div><h2>What are the types of <b>Rackspace Cloud Solutions</b>?</h2><p>There are many types of Rackspace services in Cloud computing:</p><ul><li><h3>Managed Hosting:</h3></li><p>The businesses which require more control and customisation,<b>Rackspace cloud hosting</b> provides managed hosting service like providing dedicated servers along with infrastructure.</p><li><h3>Managed Security Services:</h3></li><p>Managed security services offered by <b>server rack management</b> aid organisations in enhancing the security of the cloud environments by providing services like threat detection, assessment of vulnerability and incident responses.</p><li><h3>Managed Application services:</h3></li><p>Assistance regarding optimisation of applications which are hosted in the cloud, is provided by <b>Rackspace support services</b>. It also involves performance monitoring along with scaling and troubleshooting.</p><li><h3>Multi-Cloud Solutions:</h3></li><p> In order to help businesses in managing and optimising the workloads over multiple platforms of the cloud, designing and implementing tactics are offered by <b>Rackspace data centres</b>.</p></ul></div><div><h2>How does <b>Rackspace Cloud Work</b></h2><p>Server rack solutions offer many cloud storage solutions and its working is explained below:</p><ul><li><h3>Storage Infrastructure:</h3></li><p>A properly distributed infrastructure of storage and server devices is operated by <b>Server rack solutions</b> in multiple data centres which are interconnected in order to offer redundancy and high availability. Not only this but high availability is also being ensured by rackspace cloud hosting in order to guarantee easy access to the data, which further proves an advantage in enhancing access to data as well as protection against failures.</p><li><h3>User Interaction:</h3></li><p>Interaction of users with <b>Rackspace’s cloud storage</b> is made via web interfaces, APIs or other supported methods. It is just the matter of a few clicks which help you in gaining the access to your data, where you can store it and manage it which further makes workflow very smooth and efficient.</p><li><h3>Data Upload:</h3></li><p>Data such as files, media and documents is uploaded into <b>Rackspace cloud storage</b> by the users over the internet. All the photos, videos and other important documents could feasibly be uploaded to the cloud either via your computer and laptop or  mobile phones. After storing, data could be accessed at any time and from anywhere in rackspace cloud hosting services.</p><li><h3>Data Division and blocks:</h3></li><p>The data which is uploaded into rack storage is divided into smaller blocks or units to ensure more effective storage. Each one of the block or unit is allocated an unique identifier. The blocks are allocated this unique identity just to allow easy access to the stored data. It is one of the smart ways of saving data in a safe and secure way.</p><li><h3>Metadata Management:</h3></li><p>Information regarding every stored file or object which is included in the metadata is managed by <b>Rackspace managed hosting</b>. Things like names of files, date of creation and its owner are included in it. It is just a well managed system of storing data.</p></ul></div>"
+    },
+    {
+        "title": "Bare Metal Servers",
+        "serviceId": "bare-metal-servers",
+        "handle": "/service/bare-metal-servers",
+        "description": "Elevate your business with Abacus’ Bare Metal Server Providers tailored to confront your unique computing requirements.",
+        "metaTitle": "Bare Metal Servers Services Provider - The Abacus", 
+        "metaDescription": "Experience unparalleled performance with The Abacus Bare Metal Servers. Explore our robust and reliable bare metal hosting solutions tailored for your business requirements.",
+        "keyPoints": [
+            "To ensure optimal performance, grasp the complete power of dedicated software with bare metal services providers.",
+            "Get absolute control of the server environment along with root access for personalised management with our bare metal servers cloud.",
+            "Do not wait for investing in sustainable infrastructure that can serve advanced technology and aid your business to lead the digital landscape."
+        ],
+        "featuresList": [
+            {
+                "heading": "Robust Security",
+                "subHeading": "At <b>Abacus bare metal services</b>, all the security measures are being followed strictly in order to protect data including design implementation and firewall management.",
+                "icon": "/images/services/bare-metal-servers/1.png"
+            },
+            {
+                "heading": "Control Panel",
+                "subHeading": "<b>Bare metal servers cloud</b> has capacity to deal with daunting tasks involving a large thinking process. Even more storage space is provided to store files and data.",
+                "icon": "/images/services/bare-metal-servers/2.png"
+            },
+            {
+                "heading": "Flexibility",
+                "subHeading": "Get complete autonomy to choose among windows and LINUX.For specific workloads, you can optimise your performance, select customised hardware components according to the requirement.",
+                "icon": "/images/services/bare-metal-servers/4.png"
+            },
+            {
+                "heading": "Managed Services",
+                "subHeading": "Our dedicated metal servers provide thorough management including management of infrastructure, providing security updates and configuration etcetera.",
+                "icon": "/images/services/bare-metal-servers/5.png"
+            },
+            {
+                "heading": "Risk Management",
+                "subHeading": "Identify threats that could affect security as well as performance of the server with our <b>bare metal server hosting</b>. Curb data loss and issues like hardware failure with unique service providers.",
+                "icon": "/images/services/bare-metal-servers/6.png"
+            }
+        ],
+        "content": "<div><h2>What are Bare Metal Servers?</h2><p>Unlike VPS, which is virtual computer service, Bare Metal Servers are a type of Cloud Computing service where you can rent a powerful physical computer from a provider without any need of sharing it with anyone else. As it is solely for you and provides full control over the computer, it leads to superior level performance, helps in avoiding the challenges which you confront in shared infrastructure and provides flexibility to customise it according to your requirements.</p><p>Among other many benefits of Bare Metal Servers, the main are that because of physical isolation, these provide security and regulatory advantage and offer greater processing time.</p></div><div><h2>What are the types of <b>Dedicated Bare Metal Server</b>?</h2><p><b>Cloud bare metal servers</b> are not virtual computers, these are physical servers which can be rented from <b>Bare metal service providers</b>. Here are some common types of these servers.</p><ul><li><h3>Standard bare metal servers:</h3></li><p><b>Bare metal server providers</b> offer dedicated servers which have preset CPU, RAM as well as storage. These kinds of servers are made for versatile applications and workloads.</p><li><h3>High-performance <b>dedicated bare metal servers</b>:</h3></li><p>As the name makes it clear, they are being designed for workloads that are challenging and need high power like data analytics, High-performance computing application or scientific computing.</p><li><h3>Storage-optimised servers:</h3></li><p><b>Bare metal server hosting</b> of this type fulfils the demand of applications requiring high storage and are being used especially for databases, data-intensive applications and file servers.</p><li><h3>GPU servers:</h3></li><p>These servers which have GPU are for workloads like machine learning, AI depiction and other types of GPU-accelerated works.</p><li><h3>Managed Bare metal servers:</h3></li><p><b>Managed bare metal servers</b> are dedicated to provide security, ensure monitoring, and maintenance.</p></ul></div><div><h2>How does <b>Bare Metal Servers Work</b>?</h2><p>Bare metal server providers provide access to particular hardware by removing those layers and complexities which are totally unnecessary in order to ensure an efficient system.</p><ul><li><h3>Operating System Installation:</h3></li><p>In bare metal server hosting While installing the operating system, users are given the flexibility to select their own preferred OS and it is then installed on the bare metal server. By this service, requirement of virtualization software is eliminated and it gives more control and customisation options.</p><li><h3>Performance and Reliability:</h3></li><p>High performance as well as reliability are offered by bare metal servers through dedicated hardware resources. It makes them a perfect choice for workloads which are resource intensive like database hosting, websites with heavy-traffic etc.</p><li><h3>Provisioning and Configuration of Hardware:</h3></li><p>Here, CPU, RAM, storage and interfaces are assigned to the exclusive use by the server in order to ensure that the user has full access to the resources allocated.</p><li><h3>Physical Hardware:</h3></li><p>The components like CPU, RAM, storage and other peripherals are all part of bare metal servers. It includes dedicated hardware resources which unlike virtual servers are not shared with anyone.</p><li><h3>Single-Tenant Environment:</h3></li><p>Every tenant or customer has his own dedicated bare metal server which gives that person an individual access to the resources of the server. This reserved access helps in enhancing security, performance and privacy.</p><li><h3>Allocation and Management of Resources:</h3></li><p>Full control of the computing resource is provided to the user and after installation, users are ready to customise according to their needs like CPU core allocation, assigning the required amount of RAM and deciding storage capacity.</p><li><h3>Scalability:</h3></li><p>Although same level scalability as of virtualized environments is not being offered by bare metal servers cloud, many of the bare metal services providers offer flexible billing options and provisioning according to the demand and due to this, users can deploy traditional servers easily and promptly.</p></ul></div>"
+    },
+    {
+        "title": "Interconnection",
+        "serviceId": "cloud-interconnection",
+        "handle": "/service/cloud-interconnection",
+        "description": "Responsive Network Ecosystem for Modern Digital Demands.",
+        "metaTitle": "Seamless Cloud Interconnection | The Abacus", 
+        "metaDescription": "Empower your business with The Abacus Cloud Interconnection services. Achieve seamless connectivity and collaboration across cloud environments for enhanced efficiency and performance.",
+        "keyPoints": [
+            "Reliable and high speed connections across local data centres as well as options to connect central services to international sites.",
+            "Transferring data between different storage systems and other cloud resources is efficient and secure.",
+            "Overloading is prevented and resources are optimised with distributed network traffic."
+        ],
+        "featuresList": [
+            {
+                "heading": "Carrier Neutral",
+                "subHeading": "<b>As cloud Interconnection providers</b>, we ensure multiple carrier connections.  customers are provided with flexibility to select between different telecommunications as well as network service providers at <b>Abacus Interconnection services</b>.",
+                "icon": "/images/services/interconnection/1.png"
+            },
+            {
+                "heading": "Zero Transit Costs",
+                "subHeading": "<b>Our Cloud Interconnection pricing</b> does not involve any cost related to transmission of data between distinct networks within data centres or any Interconnection facility. Isn’t it a big benefit of cloud interconnect pricing for enterprises seeking to maintain direct communication between networks in a cost-efficient manner.",
+                "icon": "/images/services/interconnection/2.png"
+            },
+            {
+                "heading": "High Reliability",
+                "subHeading": "<b>Abacus Cloud interconnection services</b> are designed in a way to reduce downtime, provide smooth transfer of data along with a stable environment. This also includes  providing robust infrastructure and redundant systems.",
+                "icon": "/images/services/interconnection/3.png"
+            },
+            {
+                "heading": "Multiple Internet Exchanges",
+                "subHeading": "We provide a gateway to more than one Internet Exchange which allows diverse connectivity options, improves redundancy and lowers latency.",
+                "icon": "/images/services/interconnection/4.png"
+            }
+        ],
+        "content": "<div><h2>What is Interconnection?</h2><p>Interconnection in cloud computing is a type of link which establishes a path between different networks. It assists things in your computer like storage, database or other kind of services to communicate to each other via cloud in an efficient and smooth way. In short, it helps in seamless transfer of data between two virtual machines on a cloud and makes it easier for them to communicate.</p><p>Among many benefits of interconnection, the predominant one’s are efficient communication and scalability. Along with this, these are very reliable,as these lessen the impact of failures, thereby, improves the overall reliability of the cloud infrastructure. Further, secure transfer of information is ensured by it, so there is no threat regarding security.</p></div><div><h2>What are the types of <b>Cloud Interconnection</b>?</h2><p><b>Cloud interconnection</b> is a service of creating paths between different parts of the network to provide seamless flow of data between different components and cloud environments. There are many types of <b>interconnection services</b>:</p><ul><li><h3>Public Internet Connectivity:</h3></li><p>In Public internet connectivity, all the cloud services and applications could easily be accessed over the public internet which allows users to establish contact with the cloud from anywhere with the help of the internet.</p><li><h3>Direct Internet Peering</h3></li><p>Direct Internet peering in <b>Cloud service interconnection</b> means establishing direct relationship with the ISPs or CDNs as a method to optimise internet connectivity as well as to decrease latency.</p><li><h3>Virtual Private Network:</h3></li><p>These networks are secure and allow users to connect to resources over the cloud in a secure way by providing secure and encrypted internet connections.</p><li><h3>Inter-Region Connectivity:</h3></li><p><b>Cloud interconnection service providers</b> provide network connections in different geographical regions. It further helps in redundancy, data replication and disaster recovery across multiple regions.</p></ul></div><div><h2>How does Cloud Interconnection Work?</h2><p><b>Cloud service interconnection</b> works in following ways:</p><ul><li><h3>Data centres and Cloud providers:</h3></li><p>Large data centres which are located at different locations across the world, host the servers and other computing resources. The services of Cloud interconnection service providers like storage, networking and infrastructure are hosted in these data centres.</p><li><h3>Internet Backbone:</h3></li><p><b>Cloud interconnection service providers</b> offer high capacity network infrastructure which helps various data centres and networks connect to each other globally is called internet backbone.</p><li><h3>Physical Connections:</h3></li><p>Direct physical connection among data centres is provided by the <b>interconnection services</b> in order to provide high-speed links.</p><li><h3>Virtual Connections:</h3></li><p>To link different cloud services or to connect data centres on-premises to the cloud, virtual private networks or direct interconnects are established. Virtual connections are used to provide secure and encrypted connections. Although a level of performance compared to others is not provided by Virtual networks, these are the cost-effective solutions to have connectivity with those cloud environments which are in the remote locations.</p><li><h3>Interconnection Providers:</h3></li><p>In order to get cloud interconnection, interconnection service providers could also be leveraged by organisations or platforms that exchange cloud. With the help of these interconnect providers, organisations can establish connections with multifarious cloud environments by using just a single connection point.</p><li><h3>Advantages:</h3></li><p>First of all, performance is improved with cloud interconnection services in India. Not only this but it also helps in reducing the latency and increasing the security. Besides this, reliability offered by VPS hosting servers is far more than traditional internet based connections.</p><li><h3>Interconnection Points:</h3></li><p>Interconnection points which are also called career-neutral facilities are located at strategic locations by Interconnection services in India. These points work as locations where exchange of traffic takes place between different cloud service providers.</p><li><h3>Direct Connections:</h3></li><p>Organisations can have a direct or private connection of their on-premises infra with the data centres through cloud interconnection. These connections are made via leased lines or dark fibre links which helps to exceed the public internet in order to provide security and reliability.</p></ul></div>"
+    },
+    {
+        "title": "Storage Solutions",
+        "serviceId": "cloud-storage-solutions",
+        "handle": "/service/cloud-storage-solutions",
+        "description": "Effortlessly Managing Heavy Workloads for Uninterrupted Business Operations.",
+        "metaTitle": "Efficient Cloud Storage Solutions | The Abacus", 
+        "metaDescription": "Secure and scalable cloud storage solutions by The Abacus. Explore our tailored services for efficient data management, accessibility, and reliability in the cloud.",
+        "keyPoints": [
+            "Our online service storage is a managed service to provide access to data storage platforms to customers.",
+            "Cloud Storage Solution is a very cost-effective service for both small as well as average-sized businesses lacking budget to maintain their storage infrastructure.",
+            "Utilise Public Cloud for your storage and backup rather than storing on-premises with Cloud for Business Storage."
+        ],
+        "featuresList": [
+            {
+                "heading": "Prompt Service",
+                "subHeading": "<b>Abacus Cloud Storage Solutions agency</b> comes up with fast retrieval of data so that information can be accessed promptly. Downloading of data and other uploads is quick as a flash allowing for enhanced productivity and lower latency.",
+                "icon": "/images/services/storage-solutions/1.png"
+            },
+            {
+                "heading": "Flexible Service",
+                "subHeading": "As <b>Cloud based storage providers</b>, we provide you accessibility of scaling storage according to changing needs along with integrating seamlessly with different platforms and applications.",
+                "icon": "/images/services/storage-solutions/2.png"
+            },
+            {
+                "heading": "Disaster Recovery",
+                "subHeading": "Data can be recovered easily having multiple copies of your data stored at different locations with our <b>Cloud Storage Services for businesses</b>.",
+                "icon": "/images/services/storage-solutions/3.png"
+            },
+            {
+                "heading": "Storage Cost",
+                "subHeading": "Cloud for business storage offers Pay-as-you-go model with no upfront hardware cost allowing for cost-effective scaling.",
+                "icon": "/images/services/storage-solutions/4.png"
+            }
+        ],
+        "content": "<div><h2>What are Storage Solutions?</h2><p>Cloud Storage in cloud computing  means storing files and any type of data in the virtual locker means on the internet via the service provider and this data can easily be accessed through the public or a dedicated private network connection. Data that is transferred off-site for the storage purposes in company cloud storage solutions, is the responsibility of the service provider who secures, maintains and manages the servers along with infrastructure in order to make sure that you can access data whenever required.</p><p>The main benefit of Cloud storage services is the elasticity, as in this service capacity can be scaled up and down according to the volume of your data. This removes the need for organisations to invest in building and maintaining in-house storage networks.</p></div><div><h2>What are the types of <b>Storage Solutions</b>?</h2><p>There are basically three main cloud storage types:</p><ul><li><h3>Object Storage:</h3></li><p>Organisations always find it challenging to store unstructured and massive data like photos, videos, audios and other types of content, and look for affordable and efficient ways to store it. For such daunting tasks, object storage is the answer in <b>data storage cloud services</b> as it is a kind of architecture of data storage which stores large amounts of data that is unstructured. It is a very cost-effective method of storing data.</p><li><h3>File Storage:</h3></li><p>Data is stored in a hierarchical folder and a file format in file-based <b>online server storage</b>. These files could be accessed by the users from any geographical location with the help of the internet.</p><li><h3>Block Storage:</h3></li><p>Dedicated and low-latency storage is required  by enterprise applications for each host. Here, cloud storage is used to store and save data in the form of a block where each block has its own unique identifier to store quickly as well as for retrieval.</p></ul></div><div><h2>How does <b>Online Server Storage Work</b>?</h2><p>Cloud storage allows users to store and retrieve data with the help of remote servers and data centres on the internet. Below given is the detailed working of <b>data storage cloud services</b>.</p><ul><li><h3>User Interaction:</h3></li><p>In cloud based storage solutions, users make contact with storage solutions through applications, web interfaces or APIs.</p><li><h3>Data Upload:</h3></li><p>Data is uploaded by the users into the cloud storage service through the network connection called internet. Data including files, documents, photos, videos etc is transferred to the cloud using the devices which are connected to the internet like computers, smartphones or tablets. This process of transferring the data is started via a web browser or an automated synchronisation software.</p><li><h3>Data Distribution:</h3></li><p><b>Cloud storage solution agency </b> stores copies of the data in data centres and multiple servers and this distribution of data increases the reliability and availability of data. Robust hardware infra like servers, storage arrays are featured by these data centres. In case of any failure or if there is any corruption of data, data can be accessed from these redundant copies and can be restored.</p><li><h3>Data Division:</h3></li><p>The data, when stored in smaller units or blocks, is allocated a unique identifier which helps in efficient data storage.</p><li><h3>Data Encryption:</h3></li><p><b>Cloud storage businesses</b> help in the protection of data while transmitting and storage with the assistance of security measures like encryption. With this, data confidentiality and security is ensured.</p><li><h3>Metadata Management:</h3></li><p><b>Cloud storage solutions</b> agency manages Metadata which contains information regarding stored files or objects.</p><li><h3>Access Control:</h3></li><p>In company cloud storage solutions, access control is a mechanism which determines who can have access to the data, who can modify or delete the data stored. User authentication, encryption and access control lists are usually part of this as these restrict the access to the data according to the role of the user.</p><li><h3>Scalability:</h3></li><p>If storage needs increase, scalability is provided by cloud storage businesses without any need of investment in hardware or the infrastructure. Storage can be allocated or deallocated according to the demand of the users by cloud based storage providers and they only have to pay for what they use.</p></ul></div>"
+    },
+    {
+        "title": "Content Delivery",
+        "serviceId": "cloud-content-delivery",
+        "handle": "/service/cloud-content-delivery",
+        "description": "Creating Synergy Through the Integration of a Comprehensive CDN Marketplace, Enhancing Your Content Delivery Capabilities.",
+        "metaTitle": "Optimized Content Delivery | The Abacus Cloud", 
+        "metaDescription": "Enhance user experiences with The Abacus Cloud Content Delivery. Accelerate content delivery, boost performance, and ensure seamless online interactions for your business.",
+        "keyPoints": [
+            "Our Geographically distributed servers cache content near to the end user helping in swift transfer of assets be it be HTML page, JS files, images, videos and stylesheets.",
+            "With Abacus CDN Providers, interruptions are prevented and security is improved.",
+            "Get your content delivered swiftly, cost-efficiently, as well as securely with our Cloud Content Delivery Services."
+        ],
+        "featuresList": [
+            {
+                "heading": "Improved website load time",
+                "subHeading": "<b>Abacus Cloud CDN</b> offers swift website loading time, reduces bounce rates along with increasing the time spent by the public on the website.",
+                "icon": "/images/services/content-delivery/1.png"
+            },
+            {
+                "heading": "Reliability and redundancy",
+                "subHeading": "Our <b>CDN delivery network</b> provides influential reliability and redundancy, as servers located at multiple locations makes sure that other platforms can take over in case one server stops working, thereby, reducing downtime.",
+                "icon": "/images/services/content-delivery/2.png"
+            },
+            {
+                "heading": "Global Reach",
+                "subHeading": "Globally distributed servers of <b>Abacus Content Delivery</b> provide a faster experience for all the users across the globe.",
+                "icon": "/images/services/content-delivery/3.png"
+            },
+            {
+                "heading": "Cost-efficiency",
+                "subHeading": "Although Cloud services have a particular cost, the pay-as-you-go method gives an option of paying for resources you use, which results in overall cost reduction as compared to traditional methods.",
+                "icon": "/images/services/content-delivery/4.png"
+            }
+        ],
+        "content": "<div><h2>What is Content Delivery?</h2><p>Content Delivery Network (CDN) is a type of content delivery cloud service in which copies of web content are located at different locations closer to the end user to facilitate easy delivery of the content. In simple words, it's like having multiple copies of a single book in different libraries across the world, so that you can pick it up whenever and wherever you require, making it convenient.</p><p>Content Delivery cloud services networks are located on a network edge closer to the end user. It reduces the distance between both content and the user, so CDN helps provide faster performance along with reducing the loading time.</p></div><div><h2>What are the types of <b>Cloud Content Delivery Network Services</b>?</h2><p>There are multifarious types of Content delivery cloud services according to their functions and services offered by them.</p><ul><li><h3>Traditional CDN:</h3></li><p>Static content like images, stylesheets and other data is delivered  in order to optimise the load time and to reduce latency.</p><li><h3>Dynamic CDN:</h3></li><p>Unlike traditional CDN, <b>dynamic CDN server</b> is able to deal with dynamic content generation making it suitable for applications and websites where content is changed frequently.</p><li><h3>Video CDN:</h3></li><p>As the name suggests, video <b>content delivery networks</b> have specialisation in the delivery of video content. Smooth playback, decreased buffering and overall improved video performance is ensured by it.</p><li><h3>Web Application Acceleration CDN:</h3></li><p>The main functionality of these <b>CDN servers</b> is to improve and fasten the delivery of all the web applications whether they include static or dynamic content.</p><li><h3>Mobile CDN:</h3></li><p>The content delivered on the mobile devices is being optimised keeping in consideration the factors like type of device, its screen size and condition of the network.</p></ul></div><div><h2>How does <b>Content Delivery Management work</b>?</h2><p>Below given is the explanation of how CDN works:</p><ul><li><h3>Content Creation:</h3></li><p>When digital assets like web pages, images, videos and other documents start developing then it is called the beginning of content creation. After the completion of the process, comes the process of hosting these assets and one has the option of hosting it within organisations’ infra or on a third-party’s CDN.</p><li><h3>Content Replication:</h3></li><p>Multiple copies of images, stylesheets and scripts which are static are stored by a <b>CDN network provider</b> across different geographical locations.The process of storing multiple copies is called content replication.</p><li><h3>Geographical Distribution:</h3></li><p>There are some points of presence (PoPs) across the globe and in these CDN servers are being distributed strategically over these points.</p><li><h3>DNS Resolution:</h3></li><p>Domain Name System converts the domain name into an IP address, when a request is made by the user to access content or a particular website.</p><li><h3>Content Delivery:</h3></li><p> The CDN server which is closest to the end user in <b>Content delivery network service</b> delivers the content requested by the user. This ensures faster delivery of the content along with reduced latency. In this process of delivering the content, multifarious layers of caching, compression and encryption are involved in order to improve the performance and reduce usage of bandwidth.</p><li><h3>Load Balancing:</h3></li><p>Load balancing is used by CDNs to distribute the requests of the users across the multiple servers to ensure effective usage of resources and to prevent overloading on any single server.</p><li><h3>Request Routing:</h3></li><p>When the website or application content is  requested by the user, it is routed to that server within CDN which is closest in order to ensure that content has been sent from the nearest server to the user.</p><li><h3>Content Distribution:</h3></li><p>These CDNs are used by organisations to provide their digital content to the end user across the world in order to check performance as well as availability.</p><li><h3>Content Optimisation:</h3></li><p>Before beginning the process of content distribution, digital assets are being optimised by CDM in order to check performance and security. In this process, images and videos are compressed, and files of JavaScript and CSS are minified so that load times can be improved.</p></ul></div>"
+    },
+    {
+        "title": "VPS Hosting",
+        "serviceId": "vps-hosting",
+        "handle": "/service/vps-hosting",
+        "description": "Abacus Virtual Private Servers Hosting: Empowering Your Digital Journey to Stay Ahead of the Curve.",
+        "metaTitle": "Reliable VPS Hosting Services | The Abacus", 
+        "metaDescription": "The Abacus VPS hosting for reliable, scalable, and secure solutions. Elevate your online presence with our virtual private server hosting tailored to your business needs.",
+        "keyPoints": [
+            "Get superior performance and improved flexibility without the cost associated with a physical server with Abacus VPS hosting providers.",
+            "For hosting websites, running apps, storing the data and much more, our VPS hosting plans are an impeccable choice.",
+            "VPS hosting companies allow you to scale your resources easily according to the changing needs of your website."
+        ],
+        "featuresList": [
+            {
+                "heading": "Reduced Cost",
+                "subHeading": "With <b>Abacus VPS Hosting</b>, save cost via resource sharing, scalability and by using virtual environments efficiently. Just pay for what you need.",
+                "icon": "/images/services/vps-hosting/1.png"
+            },
+            {
+                "heading": "Multi Geography Zones",
+                "subHeading": "With our VPS hosting service, you can explore global reach and enhance performance because of our strategically distributed virtual server in distinct regions which further improve latency, reliability and redundancy.",
+                "icon": "/images/services/vps-hosting/2.png"
+            },
+            {
+                "heading": "High Performance",
+                "subHeading": "Dedicated resource allocation, optimal speed, responsiveness through VPS hosting aids you to achieve high performance.",
+                "icon": "/images/services/vps-hosting/3.png"
+            },
+            {
+                "heading": "Reliability",
+                "subHeading": "Through our dedicated virtual environments, we offer high reliability, failover mechanism and redundant infrastructure to reduce disruption risk and ensure consistent uptime.",
+                "icon": "/images/services/vps-hosting/4.png"
+            }
+        ],
+        "content": "<div><h2>What is VPS Hosting?</h2><p>Virtual Private Server is like having your part of a huge virtual computer solely for yourself in the cloud which permits you to share memory as well as processing power. It can be made to work according to your liking. This service leads to superior performance and provides more flexibility making it an ideal solution for storing data.<br />More and more companies prefer it because of it as being cost-effective than shared hosting providers. Along with this, as the resources are provided to each Virtual Private Server, it leads to upper-level performance in comparison to shared hosting. It is a big advantage for those sites or applications with more memory, storage and processing power.</p></div><div><h2>What are the types of Virtual Private Server Hosting?</h2><p>There are basically 3 types of <b>VPS hosting services</b>:</p><ul><li><h3>Unmanaged VPS hosting:</h3></li><p>In <b>Cloud VPS hosting</b>, only the physical server and its availability is managed by the <b>VPS hosting companies</b> and the onus of rest of the servers and maintenance tasks lies on the business owner. This service proves to be useful for those businesses which are well established with all the required IT capabilities.</p><li><h3>Managed VPS hosting:</h3></li><p><b>Managed Cloud VPS</b> decreases your efforts, time as well as technical expertise which you require to look after your server. All the responsibilities related to servers such as updates, maintenance, software installation are of <b>VPS hosting services provider</b> and this helps you concentrate on the growth of your business.</p><li><h3>Semi-managed VPS hosting:</h3></li><p>Semi-managed <b>VPS cloud server</b> acts as a middle ground between managed and unmanaged VPS hosting. In this, Cloud VPS provider looks after certain server management tasks but more control and responsibility is retained by users.</p></ul></div><div><h2>How does <b>Virtual Server work</b>?</h2><p>Virtual private server works in underlying ways:</p><ul><li><h3>Launch Web Applications:</h3></li><p> <b>Managed VPS cloud server</b> could be used by anyone in order to launch and run the web applications. Reports are integrated, time spent on inventory management is reduced by cloud-based inventory application.</p><li><h3>Builds Test Environments:</h3></li><p>New applications can be developed and tested easily and in a cost-effective method with <b>VPS hosting services plans</b>. An enterprise could build a search engine for which experiments could be run and new features could be tested to improve its search functionality.</p><li><h3>Secondary Storage:</h3></li><p>Via <b>VPS hosting server</b>, a secondary storage for storing the data and files is provided. It is more like an extra shelf where things such as files, backup or additional applications could be stored.</p><li><h3>Virtualisation Technology:</h3></li><p>In order to divide a physical server into multiple isolated virtual servers,  virtualisation technology is being used in cloud VPS hosting. This is done via a virtual layer called hypervisor in which cloud VPS providers assigns resources along with managing the virtual machines which are on the server.</p><li><h3>Virtual Servers:</h3></li><p>The operation of every virtual server created by the above mentioned layer, is different. Each server has its own resources like CPU, RAM, storage etc and with the help of these virtual servers, users can install and run their operating systems.</p><li><h3>Isolation and Privacy:</h3></li><p>Although cloud VPS hosting providers provide the same physical hardware for the servers, every server is totally isolated from each other and this is the aspect which guarantees privacy because every user has his own particular access to his virtual environment.</p><li><h3>Resource Allocation:</h3></li><p>The management of resource allocation by cloud VPS providers is done through virtualization software which further assigns resources to each server in accordance with their needs. It is done to ensure proper usage of server resources.</p><li><h3>Customization and Control:</h3></li><p>VPS hosting providers allow users to fully control their servers like they can customise the setting, take care of software application installation along with maintaining and managing files and databases.</p><li><h3>Scalability:</h3></li><p>In VPS hosting plans, users are allowed to upgrade or downgrade the resources as per their need. Due to this, VPS could be used by a number of apps and businesses.</p><li><h3>Cost-Effectiveness:</h3></li><p>VPS hosting price policy allows multiple users to share the cost of a physical server, it proves to be very cost-effective as compared to dedicated server hosting.</p></ul></div>"
+    },
+    {
+        "title": "Managed network Services",
+        "serviceId": "cloud-managed-network",
+        "handle": "/service/cloud-managed-network",
+        "description": "Relinquish the Burden of Hosted Network Management to Abacus, Your Trusted Partner for Streamlined, Hassle-Free Operations.",
+        "metaTitle": "Managed Cloud Networks | The Abacus Solutions", 
+        "metaDescription": "Enhance connectivity with The Abacus Cloud Managed Network services. Streamline operations and ensure secure, efficient, and scalable network solutions for your business.",
+        "keyPoints": [
+            "Elevate your business by early detection of issues and by keeping an eye on network performance.",
+            "Maximum uptime and high network reliability is guaranteed for critical operations.",
+            "Recovery and back-up solutions are reliable to protect data in cases of network disruption."
+        ],
+        "featuresList": [
+            {
+                "heading": "SDWAN",
+                "subHeading": "With lower WAN opex & capex, maximise your performance and get greater business agility along with increased application performance.",
+                "icon": "/images/services/managed-network-services/1.png"
+            },
+            {
+                "heading": "MPLS",
+                "subHeading": "Want flexibility and security of a private network with a global MPLS Network? Scale your IT infra with Abacus Cloud Solutions.",
+                "icon": "/images/services/managed-network-services/2.png"
+            },
+            {
+                "heading": "Hybrid WAN",
+                "subHeading": "Abacus managed network services integrate varied network paths for cost efficiency, ideal performance and improved resiliency to provide flexible connectivity.",
+                "icon": "/images/services/managed-network-services/3.png"
+            },
+            {
+                "heading": "Internet Exchange Connectivity",
+                "subHeading": "Transfer your data swiftly with reduced latency, optimised bandwidth, fault tolerance and improved routing efficiency.",
+                "icon": "/images/services/managed-network-services/4.png"
+            },
+            {
+                "heading": "CDN",
+                "subHeading": "For enhanced global content delivery we provide integrated CDN which also improves website performance, reduces latency as well as allows cost-effective delivery.",
+                "icon": "/images/services/managed-network-services/5.png"
+            },
+            {
+                "heading": "Dedicated Data Links",
+                "subHeading": "In our Managed Network Services, Dedicated Data Links provide secure and high-performance connectivity to ensure reliable communication networks personalised to your needs.",
+                "icon": "/images/services/managed-network-services/6.png"
+            }
+        ],
+        "content": "<div><h2>What are Managed Network Services?</h2><p><b>Cloud Managed Network Services</b> refer to a kind of service where experts are provided to handle and look after your internet as well as computer connections. In such types of services, the service provider makes sure that everything runs smoothly without any interruption while managing troubleshooting and dealing with security concerns via his team of professionals. Other types of IT management services are also offered by the service provider.<br />The main benefit consists of eliminating the need to hire multiple employees to handle all your IT needs and this is the main reason why businesses are preferring managed services to take care of their IT needs because it helps in cost cutting as well as reducing strain on management by providing expert handlers.</p></div><div><h2>What types of Cloud Managed Network Services are offered by Network Management Service Providers?</h2><p><b>Managed Network solutions</b> are the services offered by a thor-party to look after infrastructure and software of an organisation.<b>Remote managed network services</b> are often preferred by companies in order to increase their productivity, performance and for cost cutting. Below mentioned are some types of <b>cloud managed network services.</b>.</p><ul><li><h3>Network design and architecture:</h3></li><p><b>Network managed service providers</b> are responsible for providing the architecture and the design of the infrastructure of the cloud like deciding on the layout, connectivity and other components of the network which would help fulfil particular business requirements.</p><li><h3>Implementation and Deployment of Network:</h3></li><p>The implementation as well as deployment of networking components is provided by <b>cloud managed network providers</b>. It is ensured that the network architecture which has been designed is put effectively into working in the cloud environment. </p><li><h3>Monitoring and Management of Network:</h3></li><p><b>Cloud managed service companies</b> offer round the cloud monitoring of the network performance, bandwidth usage and health of network devices in order to find and resolve issues swiftly.</p><li><h3>WAN optimization:</h3></li><p><b>Managed Network supports</b> performance optimization of Wide Area Networks which are significant for those businesses which have their offices and users distributed geographically.</p><li><h3>SD-WAN:</h3></li><p><b>Network service management</b> offers Software-Defined network optimization and management of a wide area network which includes routing of traffic, centralised control and better application performance.</p></ul></div><div><h2>Benefits of <b>remote network management services</b></h2><p>There are multifarious of advantages of <b>network service management</b>:</p><ol><li>The prominent merit of these services is that cost of managing network resources is reduced.</li><li>IT teams do not have to go overboard on the other strategic priorities.</li><li><b>Managed Network provider</b> also ensures that network has got updated technologies and equipment.</li><li>There is a fixed monthly expense for the management of the network which further reduces capital expenses.</li><li>Downtime is minimised with the help of Service-Level Agreements.</li><li>Top-notch security is ensured by a third party team of experts.</li></ol></div><div><h2>How does <b>Managed Network Services Work</b>?</h2><p>In managed network service, the company’s infrastructure is managed and maintained by a third-party called external service provider. Below given is the brief description of its working.</p><ul><li><h3>Assessment and Planning:</h3></li><p>A company’s existing network infrastructure like configurations related to hardware and software are being assessed thoroughly. This assessment sets the criteria for a managed service provider(MSP) to make a plan which is customised according to the needs and goals of an organisation.</p><li><h3>Deployment and Implementation:</h3></li><p>MSP provides assistance in deploying and implementing those network solutions which are being finalised. This is done after the finalisation of the plan. In these stages, hardware is installed, software is configured and security measures are set in place to guarantee that the network is properly secure.</p><li><h3>Monitoring and Management:</h3></li><p>Then comes the stage where MSP manages and monitors the network traffic, performance and security alerts. It also involves advanced maintenance in order to avoid occurrence of problems</p><li><h3>Troubleshooting and Support:</h3></li><p>In case, any problem related to network issues or downtime occurs, then instant support is being provided by MSP in the form of troubleshooting to address or mitigate the issue.</p><li><h3>Optimization and Improvement:</h3></li><p>The service providers of managed network services ensure optimisation of the network infrastructure with the help of utilising advanced technologies, updating hardware and software.<br/>In a nutshell, Managed network services proper management and maintenance of the network infrastructure of an organisation.</p></ul></div>"
+    }
+]

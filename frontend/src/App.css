@@ -1,0 +1,328 @@
+@import url(https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,300;6..12,400;6..12,500;6..12,600;6..12,700;6..12,800&display=swap);
+.container,
+.header,
+.page_404 img {
+  width: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #202647;
+  font-weight: 700;
+  line-height: 1;
+}
+body {
+  font-family: "Nunito Sans", sans-serif;
+}
+h1 {
+  font-size: 45px;
+}
+h2 {
+  font-size: 35px;
+}
+h3 {
+  font-size: 28px;
+}
+h4 {
+  font-size: 22px;
+}
+h5 {
+  font-size: 20px;
+}
+a {
+  transition: 0.4s;
+}
+section {
+  padding: 75px 0;
+}
+
+/* LOADER */
+
+.loading {
+  display: inline-block;
+  position: relative;
+  width: 64px;
+  height: 64px;
+}
+.loading div {
+  position: absolute;
+  background: #022758;
+  opacity: 1;
+  border-radius: 50%;
+  animation: loading 1.4s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+}
+.loading div:nth-child(2) {
+  animation-delay: -.7s;
+}
+@keyframes loading {
+  0% {
+    top: 28px;
+    left: 28px;
+    width: 0;
+    height: 0;
+    opacity: 1;
+  }
+  100% {
+    top: -1px;
+    left: -1px;
+    width: 58px;
+    height: 58px;
+    opacity: 0;
+  }
+}
+
+/* SIDE DRAWER */
+
+.dashboard_left {
+  background: #0002441a;
+  box-shadow: 0 0 10px #898989;
+  position: fixed;
+  width: 200px;
+  overflow-x: hidden;
+  transition: 0.5s;
+  top: 0;
+}
+.dashboard_left.is_active {
+  width: 80px;
+}
+
+header {
+  transition: 0.5s;
+}
+.dashboard .header {
+  width: calc(100%);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+.dashboard .is_active .header {
+  width: calc(100% - 80px);
+}
+.dashboard_right {
+  width: calc(100% - 200px);
+  margin-left: 200px;
+  transition: 0.5s;
+}
+.dashboard_right.is_active {
+  margin-left: 80px;
+  width: calc(100% - 80px);
+}
+.dashboard .is_active .logo {
+  padding: 0;
+  justify-content: flex-start;
+  width: 80px;
+}
+.dashboard,
+.dashboard .is_active {
+  display: block;
+}
+.dashboard .nav li {
+  margin-bottom: 12px;
+}
+.dashboard .dashboard_left a {
+  font-size: 18px;
+  color: #071d43;
+}
+.dashboard .log-out .linkText,
+.dashboard .nav .linkText {
+  padding-left: 5px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.dashboard .dashboard_left a:hover {
+  color: #13326e;
+}
+.dashboard .is_active header {
+  margin-left: 80px;
+}
+
+/* TABLE */
+
+thead td{
+  padding-block: 10px;
+}
+tbody td{
+  padding-block: 5px;
+}
+tr {
+  border-bottom: 1px solid #aaa;
+}
+
+/* CHECKBOX */
+
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.container {
+  display: block;
+  position: relative;
+  cursor: pointer;
+  font-size: 1.5rem;
+  user-select: none;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  --clr: #3c62e9;
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background-color: #ccc;
+  border-radius: 50%;
+  transition: 300ms;
+}
+
+/* When the checkbox is checked, add a blue background */
+.container input:checked ~ .checkmark {
+  background-color: var(--clr);
+  border-radius: 50%;
+  animation: pulse 500ms ease-in-out;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.container .checkmark:after {
+  left: 0.45em;
+  top: 0.25em;
+  width: 0.25em;
+  height: 0.5em;
+  border: solid #E0E0E2;
+  border-width: 0 0.15em 0.15em 0;
+  transform: rotate(45deg);
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 #5c71d390;
+    rotate: 20deg;
+  }
+
+  50% {
+    rotate: -20deg;
+  }
+
+  75% {
+    box-shadow: 0 0 0 5px #5c71d390;
+  }
+
+  100% {
+    box-shadow: 0 0 0 10px #5c71d390;
+    rotate: 0;
+  }
+}
+
+/* BLOG HEADER ANIMATION */
+
+.heading-animation {
+  margin: auto auto 50px;
+  text-align: center;
+}
+.heading-animation h2 {
+  position: relative;
+  margin-bottom: 50px;
+}
+.heading-animation h2:before {
+  content: "";
+  position: absolute;
+  width: 100px;
+  height: 5px;
+  background: #3c62e9;
+  margin: auto;
+  left: 50%;
+  transform: translate(-50%);
+  border-radius: 5px;
+  bottom: -25px;
+}
+.heading-animation h2:after {
+  content: "";
+  position: absolute;
+  background: #fff;
+  animation-duration: 2s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-name: dot-move;
+  border-radius: 5px;
+  left: 0;
+  right: 0;
+  bottom: -25px;
+  height: 5px;
+  width: 5px;
+  margin: auto;
+}
+
+/* QUILL RICHTEXT FOR BLOG */
+
+.richtext ol li {
+  font-size: 16px;
+}
+.richtext ul {
+  list-style: disc;
+  margin-left: 20px;
+  font-size: 16px;
+}
+.richtext ol {
+  list-style: decimal;
+  margin-left: 20px;
+}
+.richtext a {
+  color: #00f;
+  font-weight: 600;
+}
+.richtext a:hover {
+  color: red;
+}
+.richtext div {
+  margin-bottom: 50px;
+}
+.richtext div:last-child,
+.richtext > p:last-child {
+  margin-bottom: 0;
+}
+.richtext h1 {
+  margin-bottom: 5px;
+}
+.richtext h2 {
+  margin-bottom: 5px;
+}
+.richtext h3 {
+  margin-bottom: 5px;
+}
+.richtext h4 {
+  margin-bottom: 5px;
+}
+.richtext p {
+  font-size: 16px;
+  text-align: left;
+}
+
+.quill .ql-toolbar{
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+  z-index: 1;
+}
+
+.quill .ql-container{
+  background-color: #fff;
+  max-height: 250px;
+  overflow-y: auto;
+  min-height: 100px;
+}

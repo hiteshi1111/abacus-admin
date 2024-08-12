@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Services",
+        "handle": "/cloud-based-services"
+    },
+    {
+        "title": "Co-Owned Server/Shared Server",
+        "handle": "/cloud-computing-franchisee"
+    },
+    {
+        "title": "Franchisee",
+        "handle": "/cloud-computing-franchisee"
+    },
+    {
+        "title": "Media",
+        "handle": "/media"
+    },
+    {
+        "title": "Resources",
+        "handle": "/media"
+    },
+    {
+        "title": "About Us",
+        "handle": "/about-us"
+    },
+    {
+        "title": "Request A Quote",
+        "handle": "/contact-us"
+    },
+    {
+        "title": "Contact Us",
+        "handle": "/contact-us"
+    },
+    {
+        "title": "Terms & Conditions",
+        "handle": "/terms-conditions"
+    },
+    {
+        "title": "Privacy Policy",
+        "handle": "/privacy-policy"
+    },
+    {
+        "title": "Cancellation Policy",
+        "handle": "/cancellation-policy"
+    },
+    {
+        "title": "Blogs",
+        "handle": "/blog"
+    },
+    {
+        "title": "Refund Policy",
+        "handle": "/refund-policy"
+    },
+    {
+        "title": "FAQ",
+        "handle": "/faq"
+    },
+    {
+        "title": "Login",
+        "handle": "https://www.abacuscloud.in/"
+    },
+    {
+        "title": "Register",
+        "handle": "https://abacuscloud.in/register"
+    }
+]

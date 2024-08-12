@@ -1,0 +1,42 @@
+{
+  "name": "abacus-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "build": "npm build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpdevabacus/abacus-backend.git"
+  },
+  "author": "hiteshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vpdevabacus/abacus-backend/issues"
+  },
+  "homepage": "https://github.com/vpdevabacus/abacus-backend#readme",
+  "dependencies": {
+    "axios": "^1.6.3",
+    "body-parser": "^1.20.2",
+    "connect-mongodb-session": "^3.1.1",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "googleapi": "^1.0.2",
+    "googleapis": "^134.0.0",
+    "js-sha512": "^0.9.0",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.0.1",
+    "nanoid": "^5.0.3",
+    "nodemailer": "^6.9.7",
+    "nodemon": "^3.0.1",
+    "stripe": "^14.5.0",
+    "uuid": "^9.0.1"
+  }
+}

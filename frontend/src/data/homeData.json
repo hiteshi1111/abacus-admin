@@ -1,0 +1,99 @@
+{
+    "heroSection": [
+        {
+            "title": "WE ARE DATA CENTER FOR EVERYONE",
+            "altText": "cloud server network",
+            "description": "The backbone of IT infrastructure has always been the data centres whatever the size of organisation is. Get reliability, Security and Latency using Managed Network Services.",
+            "featuredImage": "/images/home/banner1.webp"
+        },
+        {
+            "title": "EMPOWERING GROWTH WITH REAL DATA",
+            "altText": "cloud server providers",
+            "description": "(Having a unique goal and journey towards growth? No worries, step in towards the  breakthrough technologies to scale rapidly and eventually, grab hold of emerging opportunities). We, the cloud server providers are here to assist you reinvent your business and rewrite your future. So, wait for what? Why just dream!! When you can build it and grow it like no one else.",
+            "featuredImage": "/images/home/growth.webp"
+        },
+        {
+            "title": "CLOUD DATA STORAGE FOR YOUR BUSINESS",
+            "altText": "best cloud servers",
+            "description": "Start your journey with the cloud and best cloud servers for your business to grow. Get support for you and your business at every stage.",
+            "featuredImage": "/images/home/cloudstorage.webp"
+        },
+        {
+            "title": "24x7 DEDICATED SERVERS",
+            "altText": "cloud computing provider",
+            "description": "Who does not want round the clock services? So, we offer 24*7 best cloud servers for the growth of your business. Take a step ahead to grow your business using Abacus cloud server, a trusted cloud server providers for secure & reliable solutions.Boost success with leading cloud servers!",
+            "featuredImage": "/images/home/24hrs.webp"
+        }
+    ],
+    "featureSection": {
+        "title": "The Abacus Cloud Computing Server Solutions",
+        "description": "The Unique Cloud which provides out-and-out cloud services across the world, clouds, or in your data centre.<br/>Irrefutably, greater response times are always a big concern for the organisations which usually work with Internet of things(IoT), but with data centres of cloud services which are interconnected and placed strategically close to the end user, you not only get lessened latency but also quick services. Thereby,",
+        "features": ["maximise capacity","Reduce latency","Improve Performance","Optimum Bandwidth"],
+        "image": "/images/home/featured.webp",
+        "altText": "Cloud Computing Server Provider"
+    },
+    "collaboratorSection": {
+        "velosting": {
+            "image": "/images/home/velosting-logo.webp",
+            "number": "+91 99885-99485"
+        },
+        "collabs": [
+            {
+                "logoImage": "/images/home/google.webp",
+                "altText": "Google"
+            },
+            {
+                "logoImage": "/images/home/skypro.webp",
+                "altText": "Skypro"
+            },
+            {
+                "logoImage": "/images/home/amazon.webp",
+                "altText": "Amazon"
+            },
+            {
+                "logoImage": "/images/home/meta.webp",
+                "altText": "Meta"
+            },
+            {        
+                "logoImage": "/images/home/myinternet.webp",
+                "altText": "My Internet"
+            },
+            {
+                "logoImage": "/images/home/mycloud.webp",
+                "altText": "My Cloud Cam"
+            }
+        ]
+    },
+    "testimonialSection": [
+        {
+            "fullName": "Rajesh Patel",
+            "designation": "CEO of TechVista Solutions",
+            "review": "Abacus Cloud has been our reliable partner, ensuring our website is always up and running, free from downtime or glitches."
+        },
+        {
+            "fullName": "Priya Sharma",
+            "designation": "Chief Information Officer at Innovate Systems",
+            "review": "During a recent server upgrade, Abacus Cloud's outstanding support team guided us through the process seamlessly, minimizing disruption to our operations."
+        },
+        {
+            "fullName": "Alok Gupta",
+            "designation": "Founder of DataSolutions India",
+            "review": "We trust Abacus Cloud wholeheartedly with our data security, knowing they have robust measures in place to safeguard our critical information."
+        },
+        {
+            "fullName": "Sunita Verma",
+            "designation": "Director of WebTech Innovations",
+            "review": "Abacus Cloud's migration services have supercharged our website's performance, making it lightning-fast and incredibly responsive."
+        },
+        {
+            "fullName": "Rahul Kapoor",
+            "designation": "Managing Director at CloudEdge Technologies",
+            "review": "Abacus Cloud's commitment to providing unbeatable uptime and unmatched reliability has allowed us to focus on growing our business without worries."
+        },
+        {
+            "fullName": "Pooja Desai",
+            "designation": "Chief Marketing Officer at DigitalSphere Solutions",
+            "review": "Abacus Cloud's dedication to compliance and industry certifications gives us complete confidence in their ability to handle our data securely."
+        }
+    ]
+}
